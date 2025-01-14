@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EdoardoComini
+- 👀 I’m interested in Robotics, Fisics, Programming
+- 🌱 I’m currently learning ComputerScienceEngineering
