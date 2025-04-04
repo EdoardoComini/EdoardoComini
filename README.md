@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @EdoardoComini
 - 👀 I’m interested in Robotics, Fisics, Programming
 - 🌱 I’m currently learning ComputerScienceEngineering
+- 📄 I'm at this day teaching robotics with arduino and legospike
